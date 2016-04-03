@@ -5,6 +5,16 @@ body {font: bold 100px/30px Georgia, serif;}
 h2 {font-size: 70%;
 	line-height:60%;
 	color: white;}
+	
+h3 {font-size: 50%;
+	line-height:60%;
+	color: white;}
+	
+h4 {font-size: 30%;
+	line-height:60%;
+	color: white;}
+	
+	
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
