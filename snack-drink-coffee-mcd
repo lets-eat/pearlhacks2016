@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="theme.css" />
+</head>
+<body>
+
+<br></br>
+<br></br>
+
+<center><h2>TEXT</h2></center>
+
+<center><a button href="http://www.mcdonalds.com/" class="button eatbutton">STARBUCKS</button></a>
+
+<br></br>
+<center><h2>TEXT</h2></center>
+
+<br></br>
+<br></br>
+<br></br>
+
+</body>
+</html>
